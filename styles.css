@@ -1,0 +1,105 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+  background: url("https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/superover-bg.png");
+  background-size: cover;
+  color: white;
+}
+
+#india-scoreboard {
+  background-color:rgb(83, 83, 255);
+  width: 300px;
+  height: 300px;
+  border-radius: 20px;
+  text-align: center;
+  display: inline-block;
+  margin-left: 80px;
+}
+
+#pakistan-scoreboard{
+  background-color: rgb(47, 255, 47);
+  width: 300px;
+  height: 300px;
+  border-radius: 20px;
+  text-align: center;
+  display: inline-block;
+  margin: 60px;
+}
+
+.ball{
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  display: inline-block;
+  
+  background-color: white
+}
+
+section {
+  text-align: center;
+}
+
+#spacebtwind{
+  margin: 40px;
+}
+
+#spacebtwpak{
+  margin: 40px;
+}
+
+#india{
+  margin: 20px;
+  font-size: 50px;
+}
+
+#pakistan{
+  margin: 20px;
+  font-size: 50px;
+}
+
+.button {
+width: 80px;
+font-size: 1.5em;
+cursor: pointer;
+margin: 0 30px;
+}
+
+#ind-score{
+  font-family: sans-serif;
+  font-size: 45px;
+}
+
+#pak-score{
+  font-family: sans-serif;
+  font-size: 45px;
+}
+
+#ind-wickets{
+  font-family: sans-serif;
+  font-size: 45px;
+}
+
+#pak-wickets{
+  font-family: sans-serif;
+  font-size: 45px;
+}
+
+#super{
+  height: 50px;
+}
+
+#frwd1{
+  font-size: 45px;
+}
+
+#frwd2{
+  font-size: 45px;
+}
+
+#can{
+  text-align: center;
+}
